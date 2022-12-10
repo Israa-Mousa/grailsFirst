@@ -1,0 +1,6 @@
+
+
+enum Gernder {
+    MAIL,
+    FEMALE
+}
